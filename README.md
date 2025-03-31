@@ -8,10 +8,10 @@ Short intro about what this project does and who it's for.
 
 ## Table of Contents
 
-- [Overview](docs/OVERVIEW.md)
-- [Installation](docs/INSTALL.md)
-- [Usage](docs/USAGE.md)
-- [Development Guide](docs/DEV_GUIDE.md)
+- [Overview](docs/OVERVIEW)
+- [Installation](docs/INSTALL)
+- [Usage](docs/USAGE)
+- [Development Guide](docs/DEV_GUIDE)
 - [License](#license)
 
 ## Quick Start
