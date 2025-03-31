@@ -1,3 +1,7 @@
+---
+layout: default
+title: Le Test
+---
 # Project Name
 
 Short intro about what this project does and who it's for.
